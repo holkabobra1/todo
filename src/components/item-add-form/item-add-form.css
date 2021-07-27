@@ -1,3 +1,7 @@
 .add-item {
    padding-top: 20px;
 }
+
+.add-item input {
+   margin-right: 5px;
+}
